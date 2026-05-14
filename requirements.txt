@@ -1,0 +1,10 @@
+streamlit
+transformers==4.41.2
+accelerate
+langchain
+langchain-community
+langchian-text-splitters
+faiss-cpu
+transformers
+sentence-transformers
+pypdf
